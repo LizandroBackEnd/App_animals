@@ -47,7 +47,7 @@ export const Animals = () => {
 const styles = StyleSheet.create({
 	containerAnimal: {
 		flex: 1,
-		backgroundColor: '#FFF',
+		backgroundColor: '#fff',
 		alignItems: 'center',
 		justifyContent: 'center',
 		width: 250,

@@ -1,17 +1,17 @@
-# Documentación del proyecto App Animals and alphabet 
+# 📖 Documentación del proyecto App Animals and alphabet 
  
-# Visualización del proyecto
+# 🖼️ Visualización del proyecto
 
-## Animales y letra
-![Animals](./assets/img/letterspage.png)
+## 🦊 🔠 Animales y letra 
+![Animals](./assets/img/letters.jpg)
 
-## Animales y Sonido
-![Animals](./assets/img/animalespage.png)
+## 🦊🎵 Animales y Sonido
+![Animals](./assets/img/animals.jpg)
  
-# Uso del proyecto 
+# 🖼️ Uso del proyecto 
 Clona o descarga el proyecto 
 ```bash
-git clone https://github.com/LizandroBackEnd/practice_dog.git
+git clone https://github.com/LizandroBackEnd/App_animals.git
 ```  
  
 Instala las dependencias 

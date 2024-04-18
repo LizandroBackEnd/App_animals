@@ -43,7 +43,7 @@ export const Letters = () => {
 const styles = StyleSheet.create({
 	container: {
 		marginTop: 100,
-		marginBottom: 20
+		marginBottom: 20, 
 	},
 	cardLetter: {
 		backgroundColor: '#fff',

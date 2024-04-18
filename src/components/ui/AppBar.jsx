@@ -25,7 +25,7 @@ export const AppBar = () => {
 
 const styles = StyleSheet.create({
 	appBar: {
-		backgroundColor: '#107E7D',
+		backgroundColor: '#000',
 		position: 'absolute',
 		height: 80,
 		padding: 10,
